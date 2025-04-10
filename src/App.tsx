@@ -45,7 +45,8 @@ function App() {
               </div>
               <div className="relative">
                 <img
-                  src="https://images.unsplash.com/photo-1530325553241-4f6e7690cf36?auto=format&fit=crop&w=800&q=80"
+                  // src="https://images.unsplash.com/photo-1530325553241-4f6e7690cf36?auto=format&fit=crop&w=800&q=80"
+                  src="https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?auto=format&fit=crop&w=800&q=80"
                   alt="Kids learning robotics"
                   className="rounded-2xl shadow-2xl"
                 />
