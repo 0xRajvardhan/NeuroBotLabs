@@ -11,7 +11,7 @@ function App() {
               <div>
               {/* <Brain className="w-8 h-8 text-purple-600" />
               <span className="text-xl font-bold text-gray-800">NeuroBotLabs</span> */}
-              <img src="/src/public/logo.jpg" alt="logo" className='h-16 w-52'/>
+              <img src="/logo.jpg" alt="logo" className='h-16 w-52'/>
             </div>
             <div className="hidden md:flex space-x-8">
               <a href="#programs" className="text-gray-600 hover:text-[#38A7B4]">Programs</a>
